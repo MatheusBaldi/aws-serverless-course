@@ -1,0 +1,2 @@
+## AWS Serverless Course
+This repository is intended to store some examples and practical exercises from the course **AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)**. Each new example or exercise will be available in distinct branches, named according to the lesson number and a short descriptive text (e.g.: 01-descriptive-text-example).
